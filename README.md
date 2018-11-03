@@ -1,3 +1,5 @@
+![](http://phd9o0dsm.bkt.clouddn.com/605476555c24fa5bed067e5e4e78dcad_gaitubao_com_917x516.jpg)
+
 # LCEDA_Hardware
 
 这里是作者LGG001公开的电路图（原理图&PCB）的github地址。仓库中每一级文件夹都包含不同的电路图，是一个独立的文件，其中包含已经整理好的电路图介绍（README.md），原理图、PCB（截图）、BOM表。电路图采用国内开源的EDA：LCEDA进行绘制，并在其上开源，在其README.md文件中会提供开源地址，在LCEDA中可以根据个人喜欢克隆、复制、导出等操作
