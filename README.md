@@ -4,7 +4,7 @@
 
 每个电路图中的BOM都经过LGG001精心重新编写做，并作为.xlsx表格文件提供，其中会标注每个电子元器件的：数量、名称、数值、封装、品牌、立创商城购买编号
 
-![](http://phd9o0dsm.bkt.clouddn.com/STM32%20Display%20Board%20V1.0%20BOM.png)
+![](http://phd9o0dsm.bkt.clouddn.com/STM32%20Display%20Board%20V1.0%20BOM_gaitubao_com_954x515.png)
 
 # LCEDA Introduce
 
