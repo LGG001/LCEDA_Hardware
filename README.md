@@ -1,4 +1,4 @@
-![](http://phd9o0dsm.bkt.clouddn.com/605476555c24fa5bed067e5e4e78dcad_gaitubao_com_917x516.jpg)
+![](http://phd9o0dsm.bkt.clouddn.com/605476555c24fa5bed067e5e4e78dcad_gaitubao_com_917x516_gaitubao_com_825x464.jpg)
 
 # LCEDA_Hardware
 
