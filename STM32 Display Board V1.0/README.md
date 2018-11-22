@@ -9,7 +9,7 @@ STM32 Display Board V1.0是一块以STM32F103C8T6为核心的开发板，原本�
 
 STM32 Display Board V1.0的外围电路带有一块1.3寸的IPS（240*240）显示屏、六个KEY按键、两个用户LED、一个电源指示灯和引剩余未使用的引脚，下载接口采用SWD接口，采用MINI_USB供电。板子整体来说比较简单，风格为黑白配
 
-该目录下提供有相应的BOM、PDF版原理图以及PCB的截图等
+该目录下提供有相应的BOM、PDF版原理图、PCB的截图、Gerber生产文件等
 
 ## 开源地址
 
