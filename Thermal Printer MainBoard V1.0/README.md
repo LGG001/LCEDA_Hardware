@@ -3,7 +3,7 @@
 ## 项目简介
 
 Thermal Printer MainBoard V1.0是一块以STM32F103RCT6为核心的开发板，原本的设计目的是作为一块热敏打印机控制板学习使用  
-![](http://phd9ide4y.bkt.clouddn.com/Snipaste_2018-11-21_23-24-55_gaitubao_com_423x263.png)
+![](http://phd9ide4y.bkt.clouddn.com/Snipaste_2018-11-21_23-24-55_gaitubao_com_423x263_gaitubao_com_381x237.png)
 
 ## 资源介绍  
 
